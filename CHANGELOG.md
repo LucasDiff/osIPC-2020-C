@@ -20,7 +20,7 @@
 
 ## 9. týždeň
 ### Report
-- Dokončenie pretestu č.4
+- 
 ### Otázky
 - 
 
