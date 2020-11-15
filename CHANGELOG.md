@@ -25,8 +25,8 @@
 - 
 
 ## 8. týždeň
-### Report
-- 
+### Report 
+- veľa som toho ešte nezrobil ale už začnem
 ### Otázky
 - 
 
