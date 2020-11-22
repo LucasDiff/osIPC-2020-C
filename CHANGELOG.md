@@ -20,7 +20,7 @@
 
 ## 9. týždeň
 ### Report
-- 
+- veľa som toho ešte nezrobil, ale už začnem
 ### Otázky
 - 
 
