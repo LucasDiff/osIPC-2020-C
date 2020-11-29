@@ -8,7 +8,7 @@
 
 ## 11. týždeň
 ### Report
-- učenie sa a príprava na zápočtovú písomku, prvé 4 cvičenia
+- učenie sa a príprava na zápočtovú písomku, prvé 4 cvičenia. Nastavovanie obs a príprava ostaných podmienok.
 ### Otázky
 - 
 
