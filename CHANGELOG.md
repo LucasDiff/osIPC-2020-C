@@ -1,8 +1,14 @@
 # Changelog
 
-## 12. týždeň
+## 13. týždeň
 ### Report
 - 
+### Otázky
+- 
+
+## 12. týždeň
+### Report
+- zatiaľ nič
 ### Otázky
 - 
 
